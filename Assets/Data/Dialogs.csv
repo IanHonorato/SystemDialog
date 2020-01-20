@@ -1,0 +1,4 @@
+ID;Autor;Mensagem;Visibilidade;Requiriments;ProxMessagem
+1;Narrador;Ola, tudo bem com voce? ;1;;2
+2;Anciao;Seja bem vindo, como e seu nome?;1;;3
+3;Amigo;Me salve!;0;"amigo=""true""";0
